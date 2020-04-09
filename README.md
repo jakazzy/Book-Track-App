@@ -18,7 +18,7 @@ Book Tracker App enables users to achieve the following:
 
 The application should stores books items, with the fields:
 
-* `todoId` (string) - a unique id for an item
+* `Id` (string) - a unique id for an item
 * `createdAt` (string) - date and time when an item was created
 * `name` (string) - name of a TODO item (e.g. "Change a light bulb")
 * `dueDate` (string) - date and time by which an item should be completed
