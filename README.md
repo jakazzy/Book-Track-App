@@ -57,3 +57,15 @@ This should start a development server with the React application that will inte
 
 An alternative way to test your API, you can use the Postman collection that contains sample requests. You can find a Postman collection in this project. To import this collection, do the following.
 
+Tools
+<br> AWS Lambda
+<br> Serverless Framework
+<br> API Gateway
+<br> Cloud Watch
+<br> Autho
+<br> Dynamo DB
+<br> React
+<br> NodeJS
+<br> AWS S3 bucket
+<br> CloudFormation
+<br> AWS Secrets Manager
